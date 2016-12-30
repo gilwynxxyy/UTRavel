@@ -1,2 +1,2 @@
 # UTRavel
-Software engineering project
+Software Engineering Project
