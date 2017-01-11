@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UTravel</string>
+    <string name="title_activity_homapage">UTravel</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="homepage">Home</string>
+    <string name="profile">Profile</string>
+    <string name="messages">Messages</string>
+    <string name="Friends">Friends</string>
+    <string name="travel">Travel</string>
+    <string name="Account">Account</string>
+</resources>
